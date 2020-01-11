@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Gleycon Xavier
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Serviços
+subheading: Desenvolvedor Web
 mainpitch:
-  title: Why Kaldi
+  title: Desenvolvimento Web
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Desenvolvimento web, sistemas de pequeno à grande porte, lojas online(e-commerce), Blogs, One Pages, Hotsites, Sites Institucionais, Portais.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -20,11 +17,9 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Procuro trazer a melhor experiência para os usuários em minhas criações,
+        sejam usuários com dispositivos desktop ou mobile, designs criativos para
+        proporcionar uma experiência.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

@@ -1,14 +1,16 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
-$kaldi-red-invert: #fff
+// Gleycon logo brand color: #14D9D9
+$gleycon-blue: #14D9D9
+$gleycon-purple: #44158F
+$gleycon-black: #333333
+$gleycon-white: #F5F5F5
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
+$primary: $gleycon-black
+$primary-invert: $gleycon-white
+$body-color: $gleycon-purple
+$black: #44158F
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -61,10 +63,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: $gleycon-blue
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    -webkit-box-shadow: inset 0 0 0 2px $gleycon-blue
+    box-shadow: inset 0 0 0 2px $gleycon-blue
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -88,9 +90,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $gleycon-white
+$menu-item-active-background-color:	$gleycon-white
+$menu-list-border-left: 1px solid $gleycon-white
 $menu-label-color: $white-ter
 
 
@@ -114,7 +116,7 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #5d00d633;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
