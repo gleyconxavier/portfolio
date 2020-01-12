@@ -65,12 +65,12 @@ main:
     image: /img/depoimento2.png
   image3:
     alt: Logo completo
-    image: /img/og-image.jpg
+    image: /img/apple-touch-icon.png
 testimonials:
   - author: Abraham Lincoln
     quote: >-
       Se eu tivesse oito horas para derrubar uma árvore, passaria seis afiando
       meu machado
-full_image: /img/coffee-full.jpeg
+full_image: /img/pexels-photo-1029646.jpeg
 ---
 
