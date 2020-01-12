@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Gleycon Xavier
-image: /img/quadro-luzes.jpg
+image: /img/predios-ceu-roxo-azul.jpg
 heading: Serviços
 subheading: Desenvolvedor Web
 mainpitch:
