@@ -9,16 +9,21 @@ import instagram from '../img/social/instagram.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
-          <img
-            src={logoFull}
-            alt="Logotipo"
-            title="Logotipo"
-            style={{ width: '16em', height: '16em' }}
-          />
+      <footer className="footer has-text-white-ter">
+        <div className="has-background-black">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <path fill="#FFFFFF" fill-opacity="1" d="M0,96L288,224L576,32L864,160L1152,96L1440,160L1440,0L1152,0L864,0L576,0L288,0L0,0Z"></path>
+        </svg>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
+          <div className="content has-text-centered">
+            <img
+              src={logoFull}
+              alt="Logotipo"
+              title="Logotipo"
+              style={{ width: '16em', height: '16em' }}
+            />
+          </div>
           <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
