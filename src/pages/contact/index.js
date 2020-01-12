@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import contact from '../../img/social/contact.svg'
 
 function encode(data) {
   return Object.keys(data)
@@ -39,6 +40,9 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
+              <div className="has-text-centered">
+                <img src={contact} alt="Contate-me" width="80%" title="Contato" />
+              </div>
               <h1>Contato</h1>
               <form
                 name="contact"
@@ -101,7 +105,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="button is-link" type="submit">
+                  <button className="button background-purpple is-link" type="submit">
                     Enviar
                   </button>
                 </div>

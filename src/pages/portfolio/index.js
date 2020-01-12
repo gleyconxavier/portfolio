@@ -11,6 +11,8 @@ export default class PortfolioIndexPage extends React.Component {
           className="full-width-image-container margin-top-0"
           style={{
             backgroundImage: `url('/img/job-index.jpg')`,
+            backgroundPosition: `left bottom`,
+            backgroundAttachment: `fixed`
           }}
         >
           <h1
