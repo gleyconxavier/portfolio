@@ -1,36 +1,13 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/og-image.jpg
+heading: Sobre mim
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  "Se eu tivesse oito horas para derrubar uma árvore, passaria seis afiando meu
+  machado."
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -38,19 +15,52 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Habilidades que cultivei
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Conheci o desenvolvimento web em setembro de 2018 e não parei mais.
+
+
+    Minhas principais habilidades giram em torno da stack MERN, também tive
+    contato com Laravel e Wordpress
+
+
+    Ou seja estou ativamente utilizando MongoDB, Express, React.js, Node.js em
+    minhas criações que vão desde One Pages, sites institucionais, sites de
+    classificados, até API RESTful.
+
+
+    Evoluindo com os desafios de cada novo projeto.
 main:
-  heading: Great coffee with no compromises
+  heading: Long history short
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Atuei em diversas áreas, dei aulas sobre informática, atuei como técnico em
+    informática, mas embora sabia que minha vocação estava na área de tecnologia
+    da informação, ainda não tinha certeza se estes eram os nichos que queria
+    percorrer ao longo da vida.
+
+
+    Então o tempo passou e tive meu primeiro contato com a programação, com as
+    linguagens Java e Ruby, embora conseguisse realizar algoritmos simples, não
+    conseguia entender como aplicar aquilo e então fui perdendo o interesse por
+    não conseguir chegar em lugar algum, afinal não possuía nenhum mentor.
+
+
+    Ilustração lista de tarefas
+
+    Muito tempo depois e por sorte, acabei conhecendo o Curso em Vídeo e pude
+    conhecer o desenvolvimento web, que me chamou atenção , afinal, como assim
+    programar e poder ver o resultado na hora? A partir daí montei um cronograma
+    e não parei mais, passei a ler documentações, ler código de outros
+    desenvolvedores, realizei cursos na Udemy e pratiquei muito, muito mesmo.
+
+
+    Ilustração graduando
+
+    Dentro deste tempo, finalmente decidi que queria cursar o ensino superior
+    dentro da área de tecnologia da informação, então hoje sou graduando em
+    análise e desenvolvimento de sistemas, não vou mentir por trás deste resumo
+    houve muito esforço e ainda há! Mas quando fazemos o que amamos tudo isso se
+    torna divertido.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -69,33 +79,6 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+full_image: /img/og-image.jpg
 ---
+
