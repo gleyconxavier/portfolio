@@ -71,6 +71,6 @@ testimonials:
     quote: >-
       Se eu tivesse oito horas para derrubar uma árvore, passaria seis afiando
       meu machado
-full_image: /img/pexels-photo-1029646.jpeg
+full_image: /img/pexels-photo-2902541.jpeg
 ---
 
