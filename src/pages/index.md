@@ -17,8 +17,8 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/progressive_app.svg
-      text: Desenvolvimento de design responsivo e performático.
+    - image: /img/progressive_app.png
+      text: Desenvolvimento de web apps responsivos e performáticos.
   heading: O que oferecemos
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
