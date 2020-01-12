@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Our Coffee
+title: Sobre mim
 image: /img/about-index.jpeg
 heading: Sobre mim
 description: >-
