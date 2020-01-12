@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Gleycon Xavier
-image: /img/home-jumbotron.jpg
+image: /img/quadro-luzes.jpg
 heading: Serviços
 subheading: Desenvolvedor Web
 mainpitch:
