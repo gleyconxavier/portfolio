@@ -51,8 +51,8 @@ export const AboutPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
-              <div className="columns">
-                <div className="column is-7">
+              <div className="columns is-centered">
+                <div className="column is-half">
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
@@ -61,8 +61,8 @@ export const AboutPageTemplate = ({
               </div>
               <div className="tile is-ancestor">
                 <div className="tile is-vertical">
-                  <div className="tile">
-                    <div className="tile is-parent is-vertical">
+                  <div className="tile is-vertical">
+                    <div className="tile is-parent">
                       <article className="tile is-child">
                         <PreviewCompatibleImage imageInfo={main.image1} />
                       </article>
@@ -184,7 +184,7 @@ export const AboutPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
+                fluid(maxWidth: 1075, quality: 92) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -194,7 +194,7 @@ export const AboutPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 526, quality: 92) {
+                fluid(maxWidth: 1075, quality: 92) {
                   ...GatsbyImageSharpFluid
                 }
               }
