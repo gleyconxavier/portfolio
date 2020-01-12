@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: Our Coffee
-image: /img/og-image.jpg
+image: /img/about-index.jpeg
 heading: Sobre mim
 description: >-
   "Se eu tivesse oito horas para derrubar uma árvore, passaria seis afiando meu
@@ -60,23 +60,15 @@ main:
     houve muito esforço e ainda há! Mas quando fazemos o que amamos tudo isso se
     torna divertido.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Depoimento Lopes & Carvalho
+    image: /img/depoimento1.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Depoimento PoloPrinter
+    image: /img/depoimento2.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/og-image.jpg
+    alt: Logo completo
+    image: /img/og-image.jpg
+testimonials: []
+full_image: /img/coffee-full.jpeg
 ---
 
