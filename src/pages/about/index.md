@@ -65,7 +65,7 @@ main:
     image: /img/depoimento2.png
   image3:
     alt: Logo completo
-    image: /img/apple-touch-icon.png
+    image: /img/stand-out.png
 testimonials:
   - author: Abraham Lincoln
     quote: >-
