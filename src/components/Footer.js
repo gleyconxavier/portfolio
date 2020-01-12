@@ -99,7 +99,7 @@ const Footer = class extends React.Component {
             <div>
               <p
               style={{ padding: '10px' }}
-              >© 2020 Todos os direitos reservados  Gleycon Xavier
+              >© 2020 Todos os direitos reservados<br />Gleycon Xavier
               </p>
             </div>
           </div>
