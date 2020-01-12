@@ -36,13 +36,13 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="mask-icon"
           href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
-          color="#ff4400"
+          color="#44158F"
         />
-        <meta name="theme-color" content="#fff" />
+        <meta name="theme-color" content="#44158F" />
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
+        <meta property="og:url" content="https://gleyconxavier.netlify.com/" />
         <meta
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
