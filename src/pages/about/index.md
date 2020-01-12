@@ -68,7 +68,9 @@ main:
   image3:
     alt: Logo completo
     image: /img/og-image.jpg
-testimonials: []
+testimonials:
+  - author: Autor
+    quote: Quote
 full_image: /img/coffee-full.jpeg
 ---
 
