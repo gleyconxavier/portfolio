@@ -3,9 +3,7 @@ templateKey: about-page
 title: Sobre mim
 image: /img/about-index.jpeg
 heading: Sobre mim
-description: >-
-  "Se eu tivesse oito horas para derrubar uma árvore, passaria seis afiando meu
-  machado."
+description: A estrada até o desenvolvimento web
 intro:
   blurbs:
     - image: /img/progressive_app.png
@@ -69,8 +67,10 @@ main:
     alt: Logo completo
     image: /img/og-image.jpg
 testimonials:
-  - author: Autor
-    quote: Quote
+  - author: Abraham Lincoln
+    quote: >-
+      Se eu tivesse oito horas para derrubar uma árvore, passaria seis afiando
+      meu machado
 full_image: /img/coffee-full.jpeg
 ---
 
