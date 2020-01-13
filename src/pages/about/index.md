@@ -48,10 +48,12 @@ main:
     percorrer ao longo da vida.
 
 
+
     Então o tempo passou e tive meu primeiro contato com a programação, com as
     linguagens Java e Ruby, embora conseguisse realizar algoritmos simples, não
     conseguia entender como aplicar aquilo e então fui perdendo o interesse por
     não conseguir chegar em lugar algum, afinal não possuía nenhum mentor.
+
 
 
     Ilustração lista de tarefas
@@ -61,6 +63,7 @@ main:
     programar e poder ver o resultado na hora? A partir daí montei um cronograma
     e não parei mais, passei a ler documentações, ler código de outros
     desenvolvedores, realizei cursos na Udemy e pratiquei muito, muito mesmo.
+
 
 
     Ilustração graduando
