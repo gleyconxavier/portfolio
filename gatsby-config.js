@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gleycon Xavier | Portfólio',
     description:
-      'Desenvolvedor Web.',
+      'Gleycon Xavier, desenvolvimento de sites e sistemas web. Faço o que amo. Desenvolvimento web em Rolim de Moura. Criação de sites em Rolim de Moura.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -69,14 +69,13 @@ module.exports = {
       resolve: `gatsby-plugin-tawk`,
       options: {
         tawkId: "5e1ba3857e39ea1242a444a3",
-        // get this from the tawk script widget
       },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // The property ID; the tracking code won't be generated without it
         trackingId: "UA-149833444-2",
+        head: true,
       },
     },
     {
