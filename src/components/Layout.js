@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="https://gleyconxavier.netlify.com/" />
         <meta
           property="og:image"
-          content="https://gleyconxavier.netlify.com/img/og-image.jpg"
+          content="http://gleyconxavier.netlify.com/img/og-image.jpg"
         />
       </Helmet>
       <Navbar />
