@@ -8,9 +8,22 @@ intro:
   blurbs:
     - image: /img/progressive_app.png
       text: >-
-        Desenvolvimento de com design responsivo e performático, utilizo das
-        melhores técnologias para trazer ao usuário, a melhor experiência
-        possível.
+        Desenvolvimento de websites com design responsivo e performático,
+        utilizo das melhores técnologias para trazer ao usuário, a melhor
+        experiência possível.
+    - image: /img/master-plan.png
+      text: >-
+        Arquitetura de software, desenvolvimento visando sempre em primeiro
+        lugar a confiança e robustez do produto, além de um desenvolvimento mais
+        produtivo.
+    - image: /img/website-setup.png
+      text: >-
+        Desenvolvimento, as mais diversas temáticas, aqui seu projeto é
+        realmente criado a partir do zero.
+    - image: /img/undraw_project_completed_w0oq.png
+      text: >-
+        Comunicação, etapa por etapa, sempre mantendo a validação e qualidade do
+        trabalho desenvolvido, pode ficar tranquilo que aqui não estará sozinho.
   heading: Habilidades que cultivei
   description: >
     Conheci o desenvolvimento web em setembro de 2018 e não parei mais.
