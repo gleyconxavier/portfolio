@@ -8,7 +8,7 @@ description: >-
   comercial do cliente, no qual fiquei encabido do design e layout para
   incorporação posterior do mesmo ao sistema.
 featuredpost: true
-featuredimage: /img/poloprinter-proposta-comercial.png
+featuredimage: /img/poloprinter-proposta-comercial-thumbnail.png
 tags:
   - Email Marketing
 ---
