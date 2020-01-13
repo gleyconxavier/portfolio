@@ -3,6 +3,7 @@ module.exports = {
     title: 'Gleycon Xavier | Portfólio',
     description:
       'Gleycon Xavier, desenvolvimento de sites e sistemas web. Faço o que amo. Desenvolvimento web em Rolim de Moura. Criação de sites em Rolim de Moura.',
+      siteUrl: `https://gleyconxavier.netlify.com/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
