@@ -7,9 +7,8 @@ subheading: Desenvolvedor Web
 mainpitch:
   title: Desenvolvimento Web
   description: >
-    Desenvolvimento web, sistemas de pequeno à grande porte, lojas
-    online(e-commerce), Blogs, One Pages, Hotsites, Sites Institucionais,
-    Portais.
+    Sistemas de pequeno à grande porte, lojas online(e-commerce), Blogs, One
+    Pages, Hotsites, Sites Institucionais, Portais.
 description: >-
   Desenvolvimento web, sistemas de pequeno à grande porte, lojas
   online(e-commerce), Blogs, One Pages, Hotsites, Sites Institucionais, Portais.
