@@ -3,13 +3,11 @@ templateKey: blog-post
 title: O suporte ao Windows 7 terminou em 14 de janeiro de 2020
 date: 2020-01-12T14:27:26.026Z
 description: Microsoft anúncia o termino de suporte ao Windows 7.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/win7.png
 tags:
   - Blog Notícias
 ---
-
-
 > ## Ciclo de vida de suporte ao Windows 7
 >
 > - - -
