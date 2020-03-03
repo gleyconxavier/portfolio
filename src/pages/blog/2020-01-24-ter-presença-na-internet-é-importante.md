@@ -6,7 +6,7 @@ description: >-
   O artigo de hoje, vem de um questionamento um tanto corriqueiro, é fato que
   estamos caminhando a passos largos a empresa 4.0, estreitando cada vez mais a
   similaridade entre um mercado na capital e outro no interior, por exemplo.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/business-women.jpeg
 tags:
   - Presença digital
