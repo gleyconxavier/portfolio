@@ -6,9 +6,7 @@ heading: Serviços
 subheading: Desenvolvedor Web
 mainpitch:
   title: Desenvolvimento Web
-  description: >
-    Sistemas de pequeno à grande porte, lojas online(e-commerce), Blogs, One
-    Pages, Hotsites, Sites Institucionais, Portais.
+  description: Aplicações criativas e performáticas.
 description: >-
   Desenvolvimento web, sistemas de pequeno à grande porte, lojas
   online(e-commerce), Blogs, One Pages, Hotsites, Sites Institucionais, Portais.
